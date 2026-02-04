@@ -23,6 +23,5 @@ I am a 3rd-year PhD Candidate in Finance at the Kelley School of Business, India
 ## Contact
 
 - **Email**: ym12@iu.edu
-- **GitHub**: [Yuetong-Meng](https://github.com/Yuetong-Meng)
-- **Location**: Bloomington, Indiana
+- **Linkedin**: [Yuetong-Meng](https://www.linkedin.com/in/yuetong-meng-mpa-457124155/)
 
