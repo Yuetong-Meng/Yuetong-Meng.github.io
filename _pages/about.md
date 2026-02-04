@@ -9,7 +9,7 @@ redirect_from:
 
 ## Welcome
 
-I am a 3rd-year PhD Candidate in Finance at the Kelley School of Business, Indiana University. My research focuses on the intersection of **social media**, **financial intermediaries**, **investment behavior**, **financial news**, and **artificial intelligence**.
+I am a 3rd-year PhD Candidate in Finance at the Kelley School of Business, Indiana University. My research focuses on the intersection of **Social Media**, **Financial Intermediaries**, **Investment Behavior**, **Financial News**, and **AI**.
 
 ## Research Interests
 
@@ -17,15 +17,8 @@ I am a 3rd-year PhD Candidate in Finance at the Kelley School of Business, India
 - **Financial Intermediaries**: Exploring the role of banks, brokers, and other financial institutions in modern markets
 - **Investor Behavior**: Analyzing how news, information, and sentiment affect investment decisions
 - **Financial News Analytics**: Studying the impact of news coverage on asset prices and trading behavior
-- **AI Applications in Finance**: Applying machine learning and NLP techniques to financial data and prediction
+- **AI Applications in Finance**: Applying machine learning and LLM techniques to financial data and prediction
 
-## Current Research
-
-I am working on several projects investigating:
-- The role of social media discourse in financial markets
-- News sentiment analysis and its impact on investment decisions
-- Machine learning approaches to financial prediction
-- The behavior of different investor types in response to information shocks
 
 ## Contact
 
@@ -33,4 +26,3 @@ I am working on several projects investigating:
 - **GitHub**: [Yuetong-Meng](https://github.com/Yuetong-Meng)
 - **Location**: Bloomington, Indiana
 
-For more information about my research and publications, please explore the rest of this website.
