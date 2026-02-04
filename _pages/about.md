@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yuetong Meng "
+title: "Finance PhD Candidate"
 author_profile: true
 redirect_from: 
   - /about/
