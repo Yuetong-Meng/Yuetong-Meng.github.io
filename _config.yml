@@ -24,13 +24,13 @@ repository               : "Yuetong-Meng/Yuetong-Meng.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-    name             : "Yuetong Meng"
+  name             : "Yuetong Meng"
   pronouns         : # example: "she/her"  
-    bio              : "PhD Candidate in Finance | Kelley School of Business, Indiana University"
-    location         : "Bloomington, Indiana"
-    employer         : "Indiana University"
+  bio              : "PhD Candidate in Finance | Kelley School of Business, Indiana University"
+  location         : "Bloomington, Indiana"
+  employer         : "Indiana University"
   uri              : # URL
-    email            : "ym12@iu.edu" 
+  email            : "ym12@iu.edu" 
 
   # Academic websites
   academia         : # URL
